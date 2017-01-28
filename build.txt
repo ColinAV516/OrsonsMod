@@ -1,0 +1,6 @@
+author = some people
+version = 0.1
+displayName = Orsons Mod
+homepage = 
+hideCode = true
+hideResources = false
